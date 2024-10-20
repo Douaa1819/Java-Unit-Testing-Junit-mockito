@@ -80,12 +80,11 @@ If you're using **Maven**, add these dependencies to your `pom.xml`:
         <scope>test</scope>
     </dependency>
 </dependencies>
-
+````
 
 Here’s the full README file with the updated sections for More Learning Resources, Contributions, License, and Contributors:
 
-md
-Copier le code
+
 # 📚 Java Unit Testing with JUnit & Mockito 🚀
 
 Welcome to the **Ultimate Java Testing Guide**! 🎉 In this project, we're mastering **JUnit** for unit testing and **Mockito** for mocking dependencies. Whether you're a beginner or want to refine your skills, this repository will help you write clean, maintainable, and well-tested Java code. 🧑‍💻🧪
@@ -314,7 +313,7 @@ public class CalculatorTest {
         assertEquals(5, calculator.add(2, 3));
     }
 }
-
+````
 ## 🏃‍♂️ How to Run the Tests
 
 ### Running Tests in IDE
@@ -333,7 +332,7 @@ public class CalculatorTest {
 
 If you're using Maven, you can run the tests from the command line:
 
-```bash
+````
 mvn test
 ````
 
