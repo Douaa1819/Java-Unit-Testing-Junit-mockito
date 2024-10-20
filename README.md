@@ -355,5 +355,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 A big thank you to everyone who has contributed to this project:
 
-- **Douaa Chemnané** – Initial work and documentation.
+- **Douaa Chemnane** – Initial work and documentation.
 - GitHub: [Douaa19819](https://github.com/Douaa1819)
