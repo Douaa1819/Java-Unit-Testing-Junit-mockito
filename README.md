@@ -187,9 +187,9 @@ Unit tests focus on individual pieces of functionality in your application, typi
 
 Unit tests should be:
 
-Fast – Run in milliseconds.
-Isolated – No reliance on external systems like databases or network services.
-Repeatable – Produce the same result every time.
+-Fast – Run in milliseconds.
+-Isolated – No reliance on external systems like databases or network services.
+-Repeatable – Produce the same result every time.
 
 ## 📝 Writing Your First Test
 Let's start simple! Imagine you have a Calculator class that adds two numbers. Here's how you'd test it using JUnit.
