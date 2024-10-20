@@ -1,6 +1,7 @@
 # 📚 Java Unit Testing with JUnit & Mockito 🚀
 
-Welcome to the **Ultimate Java Testing Guide**! 🎉 In this project, we're mastering **JUnit** for unit testing and **Mockito** for mocking dependencies. Whether you're a beginner or want to refine your skills, this repository will help you write clean, maintainable, and well-tested Java code. 🧑‍💻🧪
+Welcome to the **Ultimate Java Testing Guide**! 🎉
+ In this project, we're mastering **JUnit** for unit testing and **Mockito** for mocking dependencies. Whether you're a beginner or want to refine your skills, this repository will help you write clean, maintainable, and well-tested Java code. 🧑‍💻🧪
 
 ---
 
