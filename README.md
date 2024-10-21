@@ -86,44 +86,6 @@ If you're using **Maven**, add these dependencies to your `pom.xml`:
 Here’s the full README file with the updated sections for More Learning Resources, Contributions, License, and Contributors:
 
 
-# 📚 Java Unit Testing with JUnit & Mockito 🚀
-
-Welcome to the **Ultimate Java Testing Guide**! 🎉 In this project, we're mastering **JUnit** for unit testing and **Mockito** for mocking dependencies. Whether you're a beginner or want to refine your skills, this repository will help you write clean, maintainable, and well-tested Java code. 🧑‍💻🧪
-
----
-
-## 🗂️ Table of Contents
-
-- [Introduction](#introduction)
-- [What You'll Learn](#-what-youll-learn)
-- [Setup & Installation](#-setup--installation)
-- [Understanding Unit Testing](#-understanding-unit-testing)
-- [Writing Your First Test](#-writing-your-first-test)
-- [Mocking with Mockito](#-mocking-with-mockito)
-- [Best Practices](#-best-practices)
-- [Running the Tests](#-how-to-run-the-tests)
-- [Screenshots](#-screenshots)
-- [More Learning Resources](#-more-learning-resources)
-- [Contributors](#-contributors)
-- [License](#-license)
-
----
-
-## 💡 Introduction
-
-Unit testing is the backbone of high-quality software development. With **JUnit**, we can create repeatable and automated tests to ensure our code behaves as expected. **Mockito** takes it a step further by allowing us to mock dependencies, which means we can isolate components and test them in controlled environments.
-
----
-
-## 🌟 What You'll Learn
-
-This project is designed to give you hands-on experience with:
-
-- 🧪 **JUnit 5** – The modern unit testing framework for Java.
-- 🧙 **Mockito** – The most popular mocking framework in the Java ecosystem.
-- 🚀 **Test-driven development (TDD)** – Writing tests before implementing functionality.
-- ✅ **Assertion techniques** – Making sure your tests are robust and reliable.
-- 📉 **Mocking strategies** – Simulating complex interactions with external dependencies.
 
 ---
 
